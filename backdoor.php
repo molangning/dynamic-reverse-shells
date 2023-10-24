@@ -47,7 +47,7 @@
 // Modifications
 // -------------
 // This code has been modified to dynamically spawn a reverse shell when a certain link has been visited.
-// The author, Mo Langning, does not guarantee the suitability of this reverse shells and will not be responsible
+// The author, Mo Langning, does not guarantee the suitability of this reverse shell and will not be responsible
 // for illegal usages of this script.
 
 set_time_limit (0);
